@@ -1,0 +1,13 @@
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap";
+$bgColor: #e0e0e0;
+
+body{
+  background-color: $bgColor;
+}
+
+.main-page{
+  margin: 0 0 30px;
+  clear: both;
+}
+
+@import "tabs"; 
